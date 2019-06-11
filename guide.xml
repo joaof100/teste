@@ -1,0 +1,846 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="24 KITCHEN .HD+">
+    <display-name lang="pt">24 KITCHEN .HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="A BOLA HD+">
+    <display-name lang="pt">A BOLA HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="AFRO MUSIC. HD+">
+    <display-name lang="pt">AFRO MUSIC. HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="AMC HD+">
+    <display-name lang="pt">AMC HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="AXN Black HD+">
+    <display-name lang="pt">AXN Black HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="AXN HD+">
+    <display-name lang="pt">AXN HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="AXN White HD+">
+    <display-name lang="pt">AXN White HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="Benfica TV HD+">
+    <display-name lang="pt">Benfica TV HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="Benfica TV HD">
+    <display-name lang="pt">Benfica TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINE MUNDO HD+">
+    <display-name lang="pt">CINE MUNDO HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 3 HD+">
+    <display-name lang="pt">SPORT TV 3 HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 1 HD">
+    <display-name lang="pt">SPORT TV 1 HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 1 HD+">
+    <display-name lang="pt">SPORT TV 1 HD+</display-name>
+    <url>http://www.sporttv.pt</url>
+  </channel>
+  <channel id="SPORT TV 2 HD">
+    <display-name lang="pt">SPORT TV 2 HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 2 HD+">
+    <display-name lang="pt">SPORT TV 2 HD+</display-name>
+    <url>http://www.sporttv.pt</url>
+  </channel>
+  <channel id="SPORT TV 3 HD">
+    <display-name lang="pt">SPORT TV 3 HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SPORTV 4 HD">
+    <display-name lang="pt">SPORTV 4 HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 4 HD+">
+    <display-name lang="pt">SPORT TV 4 HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 5 HD">
+    <display-name lang="pt">SPORT TV 5 HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 5 HD+">
+    <display-name lang="pt">SPORT TV 5 HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVCINE 1 HD+">
+    <display-name lang="pt">TVCINE 1 HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVCINE 2 HD+">
+    <display-name lang="pt">TVCINE 2 HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVCINE 3 HD+">
+    <display-name lang="pt">TVCINE 3 HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVCINE 4 HD+">
+    <display-name lang="pt">TVCINE 4 HD+</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <programme start="20190611002400 +0100" stop="20190611014900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Hóquei Feminino (?)</title>
+    <sub-title lang="pt">Final Taça de Portugal</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611014900 +0100" stop="20190611030900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Infantis (?)</title>
+    <sub-title lang="pt">SLB x Sporting. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611030900 +0100" stop="20190611033900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Corporate Club (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611033900 +0100" stop="20190611044000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611044000 +0100" stop="20190611051100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Os Momentos + Incríveis do... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611051100 +0100" stop="20190611062300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Andebol Feminino (?)</title>
+    <sub-title lang="pt">SLB x SIR 1º de Maio. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611062300 +0100" stop="20190611073500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611073500 +0100" stop="20190611084500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Andebol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Cister SA. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611084500 +0100" stop="20190611095900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Andebol Feminino (?)</title>
+    <sub-title lang="pt">SLB x CV Tavira. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611095900 +0100" stop="20190611111400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 10 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611111400 +0100" stop="20190611124400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Basquetebol (?)</title>
+    <sub-title lang="pt">Oliveirense x SLB. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611124400 +0100" stop="20190611135900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Andebol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Académica. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611135900 +0100" stop="20190611142700 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 14 Horas T.19 E... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611142700 +0100" stop="20190611145500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica Fan Zone T.19 E... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611145500 +0100" stop="20190611155400 +0100" channel="Benfica TV HD">
+    <title lang="pt">As Regras dos Jogos (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611155400 +0100" stop="20190611162000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Em Linha (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611162000 +0100" stop="20190611163000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Salão de Jogos (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190611163000 +0100" stop="20190611165500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611165500 +0100" stop="20190611181300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Infantis (?)</title>
+    <sub-title lang="pt">SLB x Sporting. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611181300 +0100" stop="20190611184300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Reportagem Especial BTV T... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611184300 +0100" stop="20190611194300 +0100" channel="Benfica TV HD">
+    <title lang="pt">105 X 68 (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611194300 +0100" stop="20190611205900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Infantis (?)</title>
+    <sub-title lang="pt">SLB x Sporting. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611205900 +0100" stop="20190611213000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611213000 +0100" stop="20190611223000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Sport Lisboa e Modalidades (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611223000 +0100" stop="20190611233100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Leonor &amp; José Nuno (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611233100 +0100" stop="20190611235900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Alta Fidelidade T.19 Ep... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190611235900 +0100" stop="20190612002300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612002300 +0100" stop="20190612012200 +0100" channel="Benfica TV HD">
+    <title lang="pt">As Regras dos Jogos (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612012200 +0100" stop="20190612022100 +0100" channel="Benfica TV HD">
+    <title lang="pt">105 X 68 (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612022100 +0100" stop="20190612031600 +0100" channel="Benfica TV HD">
+    <title lang="pt">Off the Record (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612031600 +0100" stop="20190612034300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas T.19 ... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612034300 +0100" stop="20190612044200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Sport Lisboa e Modalidades (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612044200 +0100" stop="20190612054100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Leonor &amp; José Nuno (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612054100 +0100" stop="20190612060800 +0100" channel="Benfica TV HD">
+    <title lang="pt">Alta Fidelidade T.19 E... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612060800 +0100" stop="20190612063200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612063200 +0100" stop="20190612070300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Off Road Magazine (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612070300 +0100" stop="20190612080200 +0100" channel="Benfica TV HD">
+    <title lang="pt">105 X 68 (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612080200 +0100" stop="20190612090100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Sport Lisboa e Modalidades (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612090100 +0100" stop="20190612095900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Leonor &amp; José Nuno (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612095900 +0100" stop="20190612113200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 10 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612113200 +0100" stop="20190612125600 +0100" channel="Benfica TV HD">
+    <title lang="pt">Andebol Feminino (?)</title>
+    <sub-title lang="pt">Benfica B x Ílhavo AC. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612125600 +0100" stop="20190612135900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Voleibol (?)</title>
+    <sub-title lang="pt">SLB x Ac. Mateus Nogueira. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612135900 +0100" stop="20190612143000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 14 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612143000 +0100" stop="20190612152900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Voleibol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Academia VP. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612152900 +0100" stop="20190612155700 +0100" channel="Benfica TV HD">
+    <title lang="pt">Alta Fidelidade T.19 Ep... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612155700 +0100" stop="20190612163500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Em Linha (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612163500 +0100" stop="20190612170400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612170400 +0100" stop="20190612182100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Voleibol Feminino (?)</title>
+    <sub-title lang="pt">SLB x GCP. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612182100 +0100" stop="20190612185900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Sport Lisboa e Modalidades (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612185900 +0100" stop="20190612192800 +0100" channel="Benfica TV HD">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612192800 +0100" stop="20190612195900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Cine BTV (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190612195900 +0100" stop="20190612205900 +0100" channel="Benfica TV HD">
+    <title lang="pt">As Regras dos Jogos (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612205900 +0100" stop="20190612213000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612213000 +0100" stop="20190612225900 +0100" channel="Benfica TV HD">
+    <title lang="pt">As Lanças Apontadas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612225900 +0100" stop="20190612235900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Off the Record (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190612235900 +0100" stop="20190613002300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613002300 +0100" stop="20190613012400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Voleibol (?)</title>
+    <sub-title lang="pt">SLB x Ac. Mateus Nogueira. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613012400 +0100" stop="20190613022100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Voleibol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Academia VP. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613022100 +0100" stop="20190613025200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Os Momentos + Incríveis do... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613025200 +0100" stop="20190613032600 +0100" channel="Benfica TV HD">
+    <title lang="pt">Sport Lisboa e Modalidades (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613032600 +0100" stop="20190613035400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas T.19 E... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613035400 +0100" stop="20190613042400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Cine BTV (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613042400 +0100" stop="20190613055400 +0100" channel="Benfica TV HD">
+    <title lang="pt">As Lanças Apontadas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613055400 +0100" stop="20190613062300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Reportagem Especial BTV ... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613062300 +0100" stop="20190613065500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613065500 +0100" stop="20190613083000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Quintajense. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613083000 +0100" stop="20190613095900 +0100" channel="Benfica TV HD">
+    <title lang="pt">As Lanças Apontadas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613095900 +0100" stop="20190613113400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 10 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613113400 +0100" stop="20190613124800 +0100" channel="Benfica TV HD">
+    <title lang="pt">Andebol (?)</title>
+    <sub-title lang="pt">SLB x CJ Almeida Garrett. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613124800 +0100" stop="20190613125800 +0100" channel="Benfica TV HD">
+    <title lang="pt">Salão de Jogos (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613125800 +0100" stop="20190613132900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Cine BTV (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190613132900 +0100" stop="20190613135900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Pelas Casas do Benfica T.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613135900 +0100" stop="20190613142900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 14 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613142900 +0100" stop="20190613155500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x 1º Dezembro. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613155500 +0100" stop="20190613163100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Em Linha (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613163100 +0100" stop="20190613170000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613170000 +0100" stop="20190613180000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Leonor &amp; José Nuno (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613180000 +0100" stop="20190613183300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Jornal O Benfica (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613183300 +0100" stop="20190613190500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Sport Lisboa e Modalidades (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613190500 +0100" stop="20190613193000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613193000 +0100" stop="20190613202900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Grandes Adeptos SLB (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613202900 +0100" stop="20190613205900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Corporate Club (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613205900 +0100" stop="20190613213000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613213000 +0100" stop="20190613225900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x Sporting. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613225900 +0100" stop="20190613232900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Caixa Futebol Campus T.19... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613232900 +0100" stop="20190613235900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Pelas Casas do Benfica T.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190613235900 +0100" stop="20190614002400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614002400 +0100" stop="20190614005500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Jornal O Benfica (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614005500 +0100" stop="20190614012400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Sport Lisboa e Modalidades (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614012400 +0100" stop="20190614022400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Grandes Adeptos SLB (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614022400 +0100" stop="20190614025500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Off Road Magazine (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614025500 +0100" stop="20190614032600 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614032600 +0100" stop="20190614043900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Andebol (?)</title>
+    <sub-title lang="pt">SLB x CJ Almeida Garrett. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614043900 +0100" stop="20190614051100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Caixa Futebol Campus T.19 E... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614051100 +0100" stop="20190614061000 +0100" channel="Benfica TV HD">
+    <title lang="pt">As Regras dos Jogos (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614061000 +0100" stop="20190614063500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614063500 +0100" stop="20190614070400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Os Momentos + Incríveis ... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614070400 +0100" stop="20190614080000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Off the Record (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614080000 +0100" stop="20190614092900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x Sporting. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614092900 +0100" stop="20190614095900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Cine BTV (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190614095900 +0100" stop="20190614110900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 10 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614110900 +0100" stop="20190614123300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futsal (?)</title>
+    <sub-title lang="pt">Sporting x SLB. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614123300 +0100" stop="20190614130200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica Fan Zone T.19 Ep... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614130200 +0100" stop="20190614133100 +0100" channel="Benfica TV HD">
+    <title lang="pt">Caixa Futebol Campus T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614133100 +0100" stop="20190614135900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Alta Fidelidade T.19 Ep... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614135900 +0100" stop="20190614142900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 14 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614142900 +0100" stop="20190614152900 +0100" channel="Benfica TV HD">
+    <title lang="pt">Grandes Adeptos SLB (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614152900 +0100" stop="20190614160000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Jornal O Benfica (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614160000 +0100" stop="20190614164300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Em Linha (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614164300 +0100" stop="20190614171300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Eu Conheço O Maior Benfiq... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614171300 +0100" stop="20190614181600 +0100" channel="Benfica TV HD">
+    <title lang="pt">Voleibol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Salesianos de Lisboa. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614181600 +0100" stop="20190614185300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Sport Lisboa e Modalidades (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614185300 +0100" stop="20190614192500 +0100" channel="Benfica TV HD">
+    <title lang="pt">Notícias (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614192500 +0100" stop="20190614210200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Basquetebol (?)</title>
+    <sub-title lang="pt">SLB x Oliveirense. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614210200 +0100" stop="20190614213300 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614213300 +0100" stop="20190614230200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Jogo Limpo (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190614230200 +0100" stop="20190615000200 +0100" channel="Benfica TV HD">
+    <title lang="pt">Uma Semana do Melhor (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615000200 +0100" stop="20190615002700 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.1... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615002700 +0100" stop="20190615015600 +0100" channel="Benfica TV HD">
+    <title lang="pt">Basquetebol (?)</title>
+    <sub-title lang="pt">Oliveirense x SLB. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615015600 +0100" stop="20190615022700 +0100" channel="Benfica TV HD">
+    <title lang="pt">Eu Conheço O Maior Benfiqu... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615022700 +0100" stop="20190615025600 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica Fan Zone T.19 Ep... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615025600 +0100" stop="20190615032400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas T.19 E... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615032400 +0100" stop="20190615035400 +0100" channel="Benfica TV HD">
+    <title lang="pt">Pelas Casas do Benfica T.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615035400 +0100" stop="20190615053000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Jogo Limpo (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615053000 +0100" stop="20190615060000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Uma Semana do Melhor (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615060000 +0100" stop="20190615063000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615063000 +0100" stop="20190615073000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Grandes Adeptos SLB (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615073000 +0100" stop="20190615080000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Jornal O Benfica (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615080000 +0100" stop="20190615081500 +0100" channel="Benfica TV HD">
+    <title lang="pt">5 Dias na ... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615081500 +0100" stop="20190615093000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x Real SC. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615093000 +0100" stop="20190615100000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Caixa Futebol Campus T.19... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615100000 +0100" stop="20190615103000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 10 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615103000 +0100" stop="20190615120000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x Belenenses. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615120000 +0100" stop="20190615133000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x U. Torreense. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615133000 +0100" stop="20190615140000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Corporate Club (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615140000 +0100" stop="20190615143000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 14 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615143000 +0100" stop="20190615160000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Juvenis B (?)</title>
+    <sub-title lang="pt">SLB x UD Vilafranquense. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615160000 +0100" stop="20190615173000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x CF Benfica. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615173000 +0100" stop="20190615190000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x SC Linda-a-Velha. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615190000 +0100" stop="20190615203000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x AC Cacém. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615203000 +0100" stop="20190615210000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Desportos Motorizados (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615210000 +0100" stop="20190615213000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190615213000 +0100" stop="20190615223000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Reportagem Especial (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190615223000 +0100" stop="20190616000000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Juvenis B (?)</title>
+    <sub-title lang="pt">SLB x FC Alverca. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616000000 +0100" stop="20190616003000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616003000 +0100" stop="20190616020000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Basquetebol Sub-14 (?)</title>
+    <sub-title lang="pt">Benfica B x Linces de Mafra. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616020000 +0100" stop="20190616023000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Alta Fidelidade (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616023000 +0100" stop="20190616040000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Andebol Feminino (?)</title>
+    <sub-title lang="pt">Benfica B x Ílhavo AC. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616040000 +0100" stop="20190616043000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616043000 +0100" stop="20190616060000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Feminino (?)</title>
+    <sub-title lang="pt">SLB x Quintajense. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616060000 +0100" stop="20190616063000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616063000 +0100" stop="20190616070000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Corporate Club (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616070000 +0100" stop="20190616073000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Pelas Casas do Benfica T.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616073000 +0100" stop="20190616090000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Andebol (?)</title>
+    <sub-title lang="pt">SLB x CJ Almeida Garrett. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616090000 +0100" stop="20190616100000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Infantis (?)</title>
+    <sub-title lang="pt">SLB x Sporting. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616100000 +0100" stop="20190616110000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 10 Horas (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616110000 +0100" stop="20190616130000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Juvenis (?)</title>
+    <sub-title lang="pt">SLB x Sp. Braga. Direto</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616130000 +0100" stop="20190616140000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Off the Record (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616140000 +0100" stop="20190616143000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 14 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616143000 +0100" stop="20190616153000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Reportagem Especial (?)</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190616153000 +0100" stop="20190616160000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Desportos Motorizados (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616160000 +0100" stop="20190616173000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190616173000 +0100" stop="20190616193000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Basquetebol (?)</title>
+    <sub-title lang="pt">SLB x Oliveirense. Direto</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616193000 +0100" stop="20190616210000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x Belenenses. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616210000 +0100" stop="20190616213000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616213000 +0100" stop="20190616233000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Juvenis (?)</title>
+    <sub-title lang="pt">SLB x Sp. Braga. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190616233000 +0100" stop="20190617000000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica Fan Zone (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190617000000 +0100" stop="20190617003000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 24 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190617003000 +0100" stop="20190617020000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Futebol Sub-16 (?)</title>
+    <sub-title lang="pt">SLB x Estoril. Rep.</sub-title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190617020000 +0100" stop="20190617030000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Uma Semana do Melhor (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190617030000 +0100" stop="20190617033000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Benfica 21 Horas T.19 Ep.... (?)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190617033000 +0100" stop="20190617050000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190617050000 +0100" stop="20190617110000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190617110000 +0100" stop="20190617170000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190617170000 +0100" stop="20190617230000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190617230000 +0100" stop="20190618080000 +0100" channel="Benfica TV HD">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+</tv>
